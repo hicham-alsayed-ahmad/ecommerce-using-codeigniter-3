@@ -27,3 +27,11 @@ edit          'hostname' => 'your localhost',
               'username' => 'root',
 	'password' => ''
 <hr>
+# Related
+
+If you want to install CodeIgniter via Composer, check it.</br>
+
+https://github.com/kenjis/codeigniter-composer-installer</br>
+If you want a commnad line tool, check it.</br>
+
+https://github.com/kenjis/codeigniter-cli
