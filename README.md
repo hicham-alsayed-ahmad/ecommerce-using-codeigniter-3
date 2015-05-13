@@ -1,7 +1,29 @@
-# ecommerce-ci3
-ecommerce ===>
-              using codeigniter 3 back/end
-              using bootstrap front/end
-              using font-awesome front/end
+# E commerce With Codeigniter 3.0
 
-check out  : http://hicham.besaba.com
+ ===>          using codeigniter 3 back/end
+ ===>          using bootstrap front/end
+ ===>          using font-awesome front/end
+ check out to live test : http://hicham.besaba.com
+# Requirements
+PHP 5.4.0 or later
+# Installation
+<hr>
+# Step 1 :
+
+Create database "shop-online" and  import shop-omline.sql to your database
+<hr>
+# Step 2 :
+if you use wammp server create file " shop online "  inside WWW 
+or if you use xampp create file " shop online " inside htdocs 
+<hr>
+# Step 3 :
+application => config = > config.php
+
+edit  $config['base_url'] = ' your localhost ' ;
+
+application => config = > database.php
+
+edit          'hostname' => 'your localhost',
+              'username' => 'root',
+	'password' => ''
+<hr>
