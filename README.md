@@ -6,6 +6,7 @@
  check out to live test : http://hicham.besaba.com
 # Requirements
 PHP 5.4.0 or later
+#NOTE : if you have php 7 it wii not working as fine  ,
 # Installation
 <hr>
 # Step 1 :
