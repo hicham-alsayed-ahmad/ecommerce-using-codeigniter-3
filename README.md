@@ -3,7 +3,7 @@
  ===>          using codeigniter 3 back/end
  ===>          using bootstrap front/end
  ===>          using font-awesome front/end
- check out to live test : http://hicham.besaba.com
+ check out to live test : http://xcode.ae/commercial/
 # Requirements
 PHP 5.4.0 or later
 #NOTE : if you have php 7 it wii not working as fine  ,
